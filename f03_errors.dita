@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="api_errors">
-    <title>API Error Codes</title>
+    <title>API Error Codes Table</title>
     <refbody>
         <table>
             <tgroup cols="4">
@@ -45,5 +45,8 @@
                 </tbody>
             </tgroup>
         </table>
+        <section>
+             <note type="warning">This page list only the main error codes that can be found.</note>
+        </section>
     </refbody>
 </reference>
